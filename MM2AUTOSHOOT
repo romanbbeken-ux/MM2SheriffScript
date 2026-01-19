@@ -4,6 +4,7 @@ local Run = game:GetService("RunService")
 local Cooldown = 3
 local Last = 0
 
+print("Loaded")
 Run.Heartbeat:Connect(function()
 	local PlayerSheriff = nil
 	local Murderer = nil
