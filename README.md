@@ -1,0 +1,2 @@
+# MM2SheriffScript
+Loadstring:
